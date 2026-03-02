@@ -7,7 +7,7 @@ class Formatter:
 
     @staticmethod
     def print_images(numbered_images):
-        print("\n🧙 DockerStrange — Master of the Multilayers\n")
+        print("\n🧹 DockerStrange — Master of the Multilayers\n")
         print("---------------------------------------------------")
 
         for index, image in numbered_images:
